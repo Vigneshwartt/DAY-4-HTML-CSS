@@ -1,0 +1,71 @@
+.one{
+    background-color: whitesmoke;
+    
+    
+
+}
+.two{
+    h3{
+      display: flex;
+      justify-content: center;
+    }
+    padding-left: 490px;
+margin-bottom: 3rem;
+width:16rem;
+padding-top: 30px;
+display: flex;
+align-items: stretch;
+
+}
+.tt{
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
+    padding-left: 120px;
+    
+
+}
+.three{
+    transform: translateY(50%);
+    width: 300px;
+        img{
+        width:60px;
+        float: right;
+    }
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+    border-top:0.5rem solid hsl(0, 78%, 62%)
+}
+.four{
+    transform: translateY(180%);
+    width: 300px;
+    border-top:0.5rem solid hsl(180, 78%, 62%);
+    img{
+        width: 60px;
+        float: right;
+    }
+    border-color: brown;
+    background-color: white;
+}.five{
+    transform: translateY(55%);
+    width: 300px;
+    
+    border-top:0.5rem solid hsl(34, 78%, 62%);
+    
+    img{
+        width:60px;
+        float: right;
+    }
+    background-color:beige;
+}.six{
+    
+    transform: translateX(-199%);
+    padding-bottom: 100px;
+    border-top:0.5rem solid hsl(0, 78%, 62%);
+
+    img{
+        width:60px;
+        float: right;
+    }
+    background-color:whitesmoke;
+}
